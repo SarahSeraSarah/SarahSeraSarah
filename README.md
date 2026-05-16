@@ -29,5 +29,5 @@ The following samples represent other technical writing I've crafted:
 
 Learn more about me and my career by visiting these resources:
 
-- [LinkedIn profile](https://sarahnaseemwalker.wordpress.com/wp-content/uploads/2025/10/elect-a-raccoon-overlord_owlcademy.pdf)
+- [LinkedIn profile](https://www.linkedin.com/in/sarah-n-walker/)
 - Season 3, episode 18 of *The Not-Boring Tech Writer* podcast — Listen to the [episode](https://thenotboringtechwriter.com/episodes/yoga-wisdom-for-technical-writers-with-sarah-walker) or read the [transcript](https://thenotboringtechwriter.com/episodes/yoga-wisdom-for-technical-writers-with-sarah-walker/transcript) to learn more about my approach to technical writing 
